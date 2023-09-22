@@ -1,6 +1,6 @@
+Cooperation Plan
 
-
-# 1. What are the key strengths of each person on the team?
+## 1. What are the key strengths of each person on the team?
 
 - Angel - feel good about html & css - will work through javascript as a team
 - Khari - feel good about html & css - html & css - work through javascript together
@@ -17,6 +17,8 @@
 # 4. Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
 
 - we will delegate work as it comes up and do paired programming so we can all see the code develop. Establish clear deadlines for each step of the project. 
+
+Conflict Plan
 
 # 1. What will be your group’s process to resolve conflict, when it arises?
 
@@ -39,6 +41,7 @@
 
 - Keep working to resolve the issue if we continue to have issues we can't figure out a problem after 15 minutes - reach out to the team. If the team can't figure out the issue within 15 minutes escalate to instructor
 
+Communication Plan
 
 # 1. What hours will you be available to communicate?
 
@@ -68,6 +71,8 @@
 
 - By working together to build out the code. learning from each other and respecting that the other team members may be able to teach us something we didn't know.
 
+Work Plan
+
 # 1. How you will identify tasks, assign tasks, know when they are complete, and manage work in general?
 
 - Develop a strong wireframe and use the presentation deck template to create a clear plan for the project. Discuss upcoming tasks at beginning of each  meeting, assign taks out to team members and set goal for completion.
@@ -75,6 +80,8 @@
 # 2. What project management tool will be used?
 
 - Github Projects
+
+Git Process
 
 # 1. What components of your project will live on GitHub?
 
